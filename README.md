@@ -19,4 +19,5 @@ Next, run [Q2-load-data.sql](https://github.com/samrere/wisr-take-home-test/blob
 
 ### Q3:
 Log in to the MySQL server using the credentials of the newly created user with SELECT permissions.
+
 Run [Q3-queries.sql](https://github.com/samrere/wisr-take-home-test/blob/main/Q3-queries.sql) to execute all the queries.
